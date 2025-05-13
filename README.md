@@ -1,6 +1,6 @@
 # Zip of Death (ZOD)
-This is a decompression bomb (also known as zip of death or zip bomb) designed t
-o crash or render useless the program or system reading it.
+This is a decompression bomb (also known as zip of death or zip bomb) designed to
+crash or render useless the program or system reading it.
 
 It is usually a small file for ease of transport and to avoid suspicion.
 However, when the file is unpacked, its contents are more than the system can
